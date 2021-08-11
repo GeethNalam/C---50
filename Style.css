@@ -1,0 +1,13 @@
+h1{
+    border:5;
+    color:green;
+}
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.highlight{
+    background-color: red;
+}
